@@ -73,7 +73,7 @@
             this.폼보이기ToolStripMenuItem,
             this.종료ToolStripMenuItem});
             this.cmsMenu.Name = "cmsMenu";
-            this.cmsMenu.Size = new System.Drawing.Size(181, 70);
+            this.cmsMenu.Size = new System.Drawing.Size(127, 48);
             // 
             // 폼보이기ToolStripMenuItem
             // 
@@ -100,7 +100,7 @@
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "트레이 아이콘 by 3199 ㅇㅇㅇ";
+            this.Text = "트레이 아이콘 by 3602 김선주";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.cmsMenu.ResumeLayout(false);
